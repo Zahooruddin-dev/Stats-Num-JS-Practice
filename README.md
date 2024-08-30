@@ -10,7 +10,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/query-selector-practice.git
+git clone 
 Navigate to the Project Directory:
 
 bash
